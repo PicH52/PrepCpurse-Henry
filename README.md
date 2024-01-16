@@ -1,2 +1,1 @@
-# PrepCpurse-Henry
-Este es un repositorio de prueba del M2 del Prep Course Henry
+Esta es una prueba de como crear un repo desde github y clonarlo a mi equipo
