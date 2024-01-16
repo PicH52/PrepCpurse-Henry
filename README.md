@@ -1,1 +1,1 @@
-Esta es una prueba de como crear un repo desde github y clonarlo a mi equipo
+Esta es una prueba BASTANTE FALLIDA de como crear un repo desde github y clonarlo a mi equipo
